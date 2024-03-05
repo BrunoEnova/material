@@ -1,0 +1,36 @@
+TEXTO  
+NUMERO INTEIRO
+NUMERO REAL
+LOGICO
+
+VARIÁVEIS E CONSTANTES
+    - As variavéis corresponde a uma posição da memória,
+    cujo conteúdo pode variar ao longo do tempo durante a execução 
+    do algoritmo
+
+    - Constantes é algo que não se modifica ao longo da execução
+    de um algoritmo. Podendo ter como valor um tipo numérico, 
+    lógico ou texto (sequência de caracteres).
+
+    Tipos básico de uma variáveis/constantes
+        - Numérico inteiro= valores número inteiro positivo, negativo ou nulo
+        - Numérico real = valores número real positivo, negativo ou nulo
+        - Texto = valores uma sequência de caracteres
+        - Lógico = valor verdadeiro ou falso
+
+Tipos de Operações 
+    - Operação aritmética
+
+        () Agrupar                  
+        * mutiplicação 
+        / divisão 
+        % divisão de resto
+        + soma
+        - subtração
+
+        Precedência
+        ()
+        *, /, %
+        +, -
+
+
